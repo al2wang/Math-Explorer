@@ -1,6 +1,6 @@
 # Math-Explorer
 
-This is the repository for the website and notes of the AMC 10/12 preparation club hosted by Alex G. Wang, Victor W. Zhou, Andrew K. Liu and S. Zhang at SZMS.
+This is the repository for the website and notes of the AMC 10/12 preparation club hosted by Alex G. Wang, Victor W. Zhou, Andrew K. Liu and S. N. Zhang at SZMS.
 
 If you are looking for the website of AMC Club (for notes packets, etc), please click the link above.
 
